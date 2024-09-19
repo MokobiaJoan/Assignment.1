@@ -6,7 +6,7 @@ string input;
 
    while (true)
    {
-    cout << " Enter user or (type 'exit' to quit) \n";
+    cout << " Enter User or (type 'exit' to quit) \n";
     getline(cin, input);
 
     cout << "Hello, " + input <<"\n";
