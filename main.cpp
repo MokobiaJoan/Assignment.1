@@ -1,3 +1,5 @@
+/*Mokobia Joan Chidiebere,  st135508@student.spbu.ru   Project 1*/
+
 #include "header.h"
 
 int main(){
