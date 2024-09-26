@@ -3,4 +3,6 @@
 
 #include <iostream>
 #include <string>
-using namespace std;
+void greet(std::string name);
+void hi();
+// using namespace std;
